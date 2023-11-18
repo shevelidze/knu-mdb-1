@@ -14,7 +14,7 @@ The repository root directory is mounted to the `/app` of the shell docker conta
 
 ## Database schema
 
-![alt text](https://github.com/shevelidze/knu-mdb-1/blob/main/schema.png?raw=true)
+![Database schema](https://github.com/shevelidze/knu-mdb-1/blob/main/schema.png?raw=true)
 
 [dbdiagram.io](https://dbdiagram.io/) code:
 ```
